@@ -25,11 +25,11 @@ This Python-based Product Management System allows you to manage a list of produ
 ### Steps
 1. Clone the repository or download the source code:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/GabriellaFGuerra/python-inventory-manager.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd product-management-system
+    cd product-inventory-manager
     ```
 3. No additional dependencies are required, as the project uses Python’s built-in libraries for file handling.
 
