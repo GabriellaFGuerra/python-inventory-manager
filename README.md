@@ -29,7 +29,7 @@ This Python-based Product Management System allows you to manage a list of produ
     ```
 2. Navigate to the project directory:
     ```bash
-    cd product-inventory-manager
+    cd python-inventory-manager
     ```
 3. No additional dependencies are required, as the project uses Python’s built-in libraries for file handling.
 
