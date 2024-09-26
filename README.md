@@ -74,3 +74,6 @@ product_name,price,quantity
 - main.py: Contains the logic for the interactive menu and user input.
 - products.py: Contains the Product class with methods for adding, removing, updating, and displaying products.
 - products.txt: Stores the product data in a plain text format.
+
+## License
+This project is under MIT license. Check [LICENSE](LICENSE) for the full license.
